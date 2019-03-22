@@ -35,10 +35,10 @@ int StatoSwitch = 0;
 #include <PubSubClient.h>
 
 
-const char* ssid = "UnimatrixZero";
-const char* password = "novi145$";
+const char* ssid = "";
+const char* password = "";
 
-const char* mqtt_server = "192.168.1.240";
+const char* mqtt_server = "";
 
 
 WiFiClient espClient;
