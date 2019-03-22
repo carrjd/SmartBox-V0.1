@@ -9,10 +9,10 @@
 #include <NewPing.h>
 
 
-const char* ssid = "UnimatrixZero";
-const char* password = "novi145$";
+const char* ssid = "";
+const char* password = "";
 
-const char* mqtt_server = "192.168.1.240";
+const char* mqtt_server = "";
 const int trigPin = 4;
 const int echoPin = 5;
 const int maxDist = 200;
